@@ -1,0 +1,133 @@
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+nav .navbar-brand .red
+{
+    color: #ea433b;
+}
+nav .navbar-brand .yellow
+{
+    color: #f5b82e;
+}
+nav .navbar-brand .green
+{
+    color: #2e944b;
+}
+
+.totals {
+    background-color: #ffffff !important;
+}
+
+.empty {
+    background-color: #ffffff !important;
+    border-style: hidden !important;
+}
+
+#sellindex{
+    width:70px !important;
+    padding-right: -90px !important;
+    margin-top: 5px;
+    margin-bottom: -10px;
+    margin-left: 42px !important;
+}
+
+.btn-group {
+    margin-left: -135px;
+    margin-right: 42px !important;
+    margin-top: 5px;
+    margin-bottom: -10px;
+}
+
+.btn-group button {
+    background-color: #04AA6D;
+    border: 1px solid green;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    width: 50%;
+    display: block;
+}
+
+.btn-group button:not(:last-child) {
+    border-bottom: none;
+}
+
+.btn-group button:hover {
+    filter: brightness(90%);
+}
+
+.mb-3 {
+    padding-bottom: -10px;
+    display: flex;
+}
+
+.sell {
+    background-color: #D80000 !important;
+    border: 1px solid #C80000 !important;
+}
+
+.sell button:hover {
+    background-color: #CF0000 !important;
+}
+
+table {
+    vertical-align: middle !important;
+    text-align: center !important;
+    font-weight: bold;
+    margin-bottom: 5px !important;
+}
+
+#buy-narrower {
+    width: 200px !important;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#addcashbtn a:hover {
+    background-color: #0054DF !important;
+    border-radius:12px !important;
+}
+
+#addcashbtn {
+    transform: translateZ(0);
+    overflow: hidden !important;
+}
+
+.acc-user {
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.acc-profit{
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+.nav-link a:hover {
+    background-color: #d3d3d3 !important;
+}
+
+.nav-link {
+    overflow: hidden !important;
+}
+
+li:hover {
+    background-color: #d3d3d3;
+    border-radius:12px;
+}
+
+.password-info {
+    font-size: 10px !important;
+}
